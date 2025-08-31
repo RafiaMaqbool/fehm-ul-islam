@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fehm-ul-Islam</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Fehm-ul-Islam</h1>
+    <p>A beautiful collection of Qur'anic teachings, reflections, and lessons to enlighten your soul.</p>
+    <a href="FehmUlIslam.pdf" download class="download-btn">📘 Download the Book (PDF)</a>
+  </section>
+
+  <!-- About Section -->
+  <section class="about">
+    <h2>About the Book</h2>
+    <p>"Fehm-ul-Islam" dives into the core teachings of the Qur'an, offering clarity and wisdom for modern-day life. It emphasizes faith, patience, compassion, and understanding — rooted in authentic sources.</p>
+  </section>
+
+  <!-- Pillars Section -->
+  <section class="pillars">
+    <h2>Pillars of Understanding</h2>
+    <div class="grid">
+      <div class="card"><h3>Salah</h3><p>The pillar of discipline and spiritual connection.</p></div>
+      <div class="card"><h3>Sawm</h3><p>Fasting to develop self-control and empathy.</p></div>
+      <div class="card"><h3>Quran</h3><p>Divine source of wisdom and life guidance.</p></div>
+      <div class="card"><h3>Hajj</h3><p>A journey of unity and spiritual awakening.</p></div>
+    </div>
+  </section>
+
+  <!-- Services Section -->
+  <section class="services">
+    <h2>Serving the Ummah</h2>
+    <div class="grid">
+      <div class="card"><h3>Quran Learning</h3><p>Access structured Quranic learning pathways.</p></div>
+      <div class="card"><h3>Funeral Service</h3><p>Guidance and assistance with final rites.</p></div>
+      <div class="card"><h3>Mosque Renovation</h3><p>Support rebuilding and maintaining masajid.</p></div>
+      <div class="card"><h3>Help the Poor</h3><p>Distribute zakat and aid to those in need.</p></div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Fehm-ul-Islam. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
