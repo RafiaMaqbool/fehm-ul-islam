@@ -36,10 +36,11 @@ section {
   margin: auto;
 }
 .hero h1 {
-  font-size: 3.5rem;
+  font-size: clamp(1.8rem, 6vw, 3.5rem);
   color: #d4af37;
   margin-bottom: 20px;
 }
+
 .hero p {
   font-size: 1.2rem;
   color: #f1f1f1;
