@@ -136,10 +136,11 @@ h2::after {
 
 /* Footer */
 footer {
-  background: #0d3b2e;
+  background: #1b1047;
   color: #ddd;
   padding: 30px 20px;
   font-size: 0.9rem;
+  text-align: center;
 }
 footer small {
   color: #bbb;
